@@ -8,9 +8,9 @@
 	
 	Usage :
 	cd bombfb
-	sudo Perl BOMB-FB.pl user"of victime" ListPass.txt
+	sudo perl BOMB-FB.pl user"of victime" ListPass.txt
 	
-	Example : sudo Perl BOMB FB.pl noisria.official ListPass.txt
+	Example : sudo perl BOMB-FB.pl noisria.official ListPass.txt
 
 Website : https://www.blackdevil.pro
 contact : contact@blackdevil.pro
