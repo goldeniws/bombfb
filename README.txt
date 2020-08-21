@@ -1,12 +1,14 @@
 	Requirements :
-	perl : curl -L http://xrl.us/installperlnix | bash
+	perl :
+	curl -L http://xrl.us/installperlnix | bash
+	sudo apt-get install liblocal-lib-perl cpanminus build-essential
 	
 	Install :
 	git clone https://github.com/goldeniws/bombfb.git
 	
 	Usage :
 	cd bombfb
-	sudo Perl BOMB FB.pl user"of victime" ListPass.txt
+	sudo Perl BOMB-FB.pl user"of victime" ListPass.txt
 	
 	Example : sudo Perl BOMB FB.pl noisria.official ListPass.txt
 
