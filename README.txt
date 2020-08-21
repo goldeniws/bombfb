@@ -4,6 +4,8 @@
 
 Website : https://www.blackdevil.pro
 contact : contact@blackdevil.pro
+FaceBook Official Acoount : https://www.facebook.com/noisria.official
+Facebook Page : https://www.facebook.com/blackdevil.pro
 
 IF You want to creat a password list Dir Commund :
 Linux :
