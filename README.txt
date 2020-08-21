@@ -1,13 +1,16 @@
 
-	Usage : sudo Perl BOMB FB.pl user"of victime" ListPass.txt
-
+	Install :
+	git clone https://github.com/goldeniws/bombfb.git
+	Usage :
+	cd bombfb
+	sudo Perl BOMB FB.pl user"of victime" ListPass.txt
 
 Website : https://www.blackdevil.pro
 contact : contact@blackdevil.pro
 FaceBook Official Acoount : https://www.facebook.com/noisria.official
 Facebook Page : https://www.facebook.com/blackdevil.pro
 
-IF You want to creat a password list Dir Commund :
+IF You want to creat a password list Dir command :
 Linux :
 crunch 10 10 toxic2000 -t toxic@#12  -o /root/Desktop/toxic.txt
 
