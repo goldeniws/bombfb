@@ -24,7 +24,7 @@ print "\n                         ـــــــــــــــــــــــ
 print "                        |«       Script bruteforce account facebook With SSL Option's       ^^ »| \n";
 print "                         ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ \n\n";
 print "\0  oooooooooo    ooooooo  oooo     oooo oooooooooo       ooooooooooo oooooooooo \n";
-print "   888    888 o888   888o 8888o   888   888    888       888    88   888    888 \n";
+print "   888    888 o888   888o 8888o   888   888    888       888         888    888 \n";
 print "   888oooo88  888     888 88 888o8 88   888oooo88        888ooo8     888oooo88  \n";
 print "   888    888 888o   o888 88  888  88   888    888       888         888    888 \n";
 print "  o888ooo888    88ooo88  o88o  8  o88o o888ooo888       o888o       o888ooo888  \n\n";
@@ -33,7 +33,7 @@ print "  o888ooo888    88ooo88  o88o  8  o88o o888ooo888       o888o       o888o
                                                                                                                                           
                                                        
 print "\033[1;31m                           «======================================================================»\n";
-print "                           «|~ The Bomber : if u want join in my team ask me - fb/luise.proo ~|» \n";
+print "                                     «|~ The Bomber : if u want join in my team ask me - fb/luise.proo ~|» \n";
 print "\033[1;31m                           «======================================================================»\n";
 print "\033[1;37m                           «|           ==>> Usage: perl $0 Login wordlist.txt          |»\n";
 print "\033[1;37m                                   «=========================================================»\n\n\n\n\n\n\n\n\n\n";
@@ -48,16 +48,15 @@ open (LIST, $wordlist) || die "\n[-] No Wordlist Biiitch On $wordlist -__- \n";
 print "                         ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ \n";
 print "                        |«       Script bruteforce account facebook With SSL Option's       ^^ »| \n";
 print "                         ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ \n\n";
-print "\0  .88b  d88. d8888b.      d8888b.  .d88b.  d8888b.  .d88b.  d888888b     d8888b. d8888b. db    db d888888b d88888b d8888b.      d88888b d8888b. \n";
-print "  88'YbdP`88 88  `8D      88  `8D .8P  Y8. 88  `8D .8P  Y8. `~~88~~'     88  `8D 88  `8D 88    88 `~~88~~' 88'     88  `8D      88'     88  `8D \n";
-print "  88  88  88 88oobY'      88oobY' 88    88 88oooY' 88    88    88        88oooY' 88oobY' 88    88    88    88ooooo 88oobY'      88ooo   88oooY' \n";
-print "  88  88  88 88`8b        88`8b   88    88 88~~~b. 88    88    88        88~~~b. 88`8b   88    88    88    88~~~~~ 88`8b   «==» 88~~~   88~~~b. \n";
-print "  88  88  88 88 `88.  ++  88 `88. `8b  d8' 88   8D `8b  d8'    88    ++  88   8D 88 `88. 88b  d88    88    88.     88 `88.      88      88   8D \n";
-print "  YP  YP  YP 88   YD  ++  88   YD  `Y88P'  Y8888P'  `Y88P'     YP    ++  Y8888P' 88   YD ~Y8888P'    YP    Y88888P 88   YD      YP      Y8888P' \n\n";
+print "\0  oooooooooo    ooooooo  oooo     oooo oooooooooo       ooooooooooo oooooooooo \n";
+print "   888    888 o888   888o 8888o   888   888    888       888         888    888 \n";
+print "   888oooo88  888     888 88 888o8 88   888oooo88        888ooo8     888oooo88  \n";
+print "   888    888 888o   o888 88  888  88   888    888       888         888    888 \n";
+print "  o888ooo888    88ooo88  o88o  8  o88o o888ooo888       o888o       o888ooo888  \n\n";
 
                                                        
 print "\033[1;31m                   «======================================================================»\n";
-print "                   «|~ Toxic Proo Dz : if u want join in my team ask me - fb/luise.proo ~|» \n";
+print "                             «|~  The Bomber : if u want join in my team ask me - fb/luise.proo   ~|» \n";
 print "\033[1;31m                   «======================================================================»\n";
 print "\033[1;37m                             «|     ==>> Usage: perl $0 Login wordlist.txt     |»\n";
 print "\033[1;37m                             «=====================================================»\n\n\n";
