@@ -5,7 +5,7 @@
 #[~] Programmed by Black Devil ==> " The Bomber "  :)
 #[~] By Team */  Black Devil /*
 #[~] We are : Black Devil ==>
-#    ==>   [~]                                                Black Devil                                                [~] ^_^ *-*
+#    ==>   [~]                                              fb/blackdevil.pro                                           [~] ^_^ *-*
 #
 #[~] =+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=++=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+==+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=[~]
 #[~] =+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=[~]
@@ -21,8 +21,8 @@ if(!defined($ARGV[0] && $ARGV[1])) {
 
 system('clear');
 print "\n                         ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ \n";
-print "                        |«       Script bruteforce account facebook With SSL Option's       ^^ »| \n";
-print "                         ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ \n\n";
+print "                          |«         Script bruteforce account facebook By The Bomber         ^^ »| \n";
+print "                           ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ \n\n";
 print "\0  oooooooooo    ooooooo  oooo     oooo oooooooooo       ooooooooooo oooooooooo \n";
 print "   888    888 o888   888o 8888o   888   888    888       888         888    888 \n";
 print "   888oooo88  888     888 88 888o8 88   888oooo88        888ooo8     888oooo88  \n";
@@ -33,7 +33,7 @@ print "  o888ooo888    88ooo88  o88o  8  o88o o888ooo888       o888o       o888o
                                                                                                                                           
                                                        
 print "\033[1;31m                           «======================================================================»\n";
-print "                                     «|~ The Bomber : if u want join in my team ask me - fb/luise.proo ~|» \n";
+print "                                     «|~ The Bomber : if u want join in my team ask me - fb/noisria.official ~|» \n";
 print "\033[1;31m                           «======================================================================»\n";
 print "\033[1;37m                           «|           ==>> Usage: perl $0 Login wordlist.txt          |»\n";
 print "\033[1;37m                                   «=========================================================»\n\n\n\n\n\n\n\n\n\n";
@@ -46,7 +46,7 @@ my $wordlist = $ARGV[1];
 open (LIST, $wordlist) || die "\n[-] No Wordlist Biiitch On $wordlist -__- \n";
 
 print "                         ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ \n";
-print "                        |«       Script bruteforce account facebook With SSL Option's       ^^ »| \n";
+print "                          |«         Script bruteforce account facebook By The Bomber         ^^ »| \n";
 print "                         ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ \n\n";
 print "\0  oooooooooo    ooooooo  oooo     oooo oooooooooo       ooooooooooo oooooooooo \n";
 print "   888    888 o888   888o 8888o   888   888    888       888         888    888 \n";
@@ -56,7 +56,7 @@ print "  o888ooo888    88ooo88  o88o  8  o88o o888ooo888       o888o       o888o
 
                                                        
 print "\033[1;31m                   «======================================================================»\n";
-print "                             «|~  The Bomber : if u want join in my team ask me - fb/luise.proo   ~|» \n";
+print "                             «|~  The Bomber : if u want join in my team ask me - fb/noisria.official ~|» \n";
 print "\033[1;31m                   «======================================================================»\n";
 print "\033[1;37m                             «|     ==>> Usage: perl $0 Login wordlist.txt     |»\n";
 print "\033[1;37m                             «=====================================================»\n\n\n";
