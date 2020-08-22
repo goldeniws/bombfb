@@ -2,7 +2,9 @@
 	perl :
 	curl -L http://xrl.us/installperlnix | bash
 	sudo apt-get install liblocal-lib-perl cpanminus build-essential
-	
+	sudo apt-get install libnet-ssleay-perl
+	sudo apt-get install libcrypt-ssleay-perl
+
 	Install :
 	git clone https://github.com/goldeniws/bombfb.git
 	
